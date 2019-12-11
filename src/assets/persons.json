@@ -9512,4 +9512,19 @@
       }
     }
   ]
-}
+},{
+    "id": 598,
+    "name": "Ali Mansour",
+    "img": "https://ibb.co/vmFCPTV",
+    "links": {
+      "website": "https://www.alimansour.dev",
+      "linkedin": "https://www.linkedin.com/in/devalimansour",
+      "github": "https://github.com/dev-ali-mansour"
+    },
+    "jobTitle": "Senior Android developer",
+    "location": {
+      "city": "Giza",
+      "state": "Gizw",
+      "country": "Egypt"
+    }
+  }
